@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    //原有代码
+    "paths": {
+      "@": ["./src"]
+    }
+  },
+  "include": [
+    "src/**/*.js",
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.jsx",
+    "src/**/*.tsx",
+    "src/**/*.vue"
+  ]
+}
